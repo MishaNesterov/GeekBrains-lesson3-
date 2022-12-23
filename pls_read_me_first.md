@@ -1,5 +1,7 @@
- Сделал git init 
- Создал readme.md
+__Список действий__
+
+Сделал git init 
+Создал readme.md
     Совершил git add .
     Сделал commit
 Создал block.drawio.png
@@ -20,3 +22,9 @@
 Переписал файл readme.md 
     Совершил git add .
     Сделал commit
+Переименовал файл readme.md ====> pls_read_me_first.md
+    Совершил git add .
+    Сделал commit
+
+
+
