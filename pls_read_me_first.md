@@ -46,3 +46,7 @@
 
 __В разных ветках по разному стилизую файл pls_read_me_first.md для создания конфликта__
 
+* Слил ветку example 003 ==> example 002, example002 ==> example001 с разрешением конфликта , example 001 ==> master
+
+        Совершил git add .
+        Сделал commit
